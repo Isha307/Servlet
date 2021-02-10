@@ -1,0 +1,4 @@
+A Servlet is a Java programming language class that is used to extend the capablities of servers that hostapplication accessed by means of a request-response programming model.
+
+
+Sevlets can respond to any type of requests, they are commonly used to extend the applications hosted by web servers.
