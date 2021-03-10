@@ -1,7 +1,3 @@
-# test
+## SERVLET
 
-Incomplete file/documents
-
-
-
-Need/Want to work on it
+Java Program that runs within a Web Server.
