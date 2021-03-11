@@ -5,7 +5,7 @@ Java Program that runs within a Web Server.
 
 ## Execution of Servlets involves six basic steps:
 
-* [1]The clients send the request to the web server.
+* *[1]The clients send the request to the web server.
 
 [2]The web server receives the request.
 
