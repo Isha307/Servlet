@@ -2,6 +2,7 @@
 
 Java Program that runs within a Web Server.
 
+![](https://github.com/Isha307/Servlet/blob/main/Img/Servlet.png)
 
 ## Execution of Servlets involves six basic steps:
 
